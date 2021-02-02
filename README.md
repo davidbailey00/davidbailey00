@@ -1,1 +1,1 @@
-# [Visit my personal website](https://davidbailey.codes/)
+# [Visit my website](https://davidbailey.codes/) or [contact me](https://davidbailey.codes/contact)
