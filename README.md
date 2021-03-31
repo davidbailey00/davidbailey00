@@ -1,3 +1,3 @@
-# Hi, I'm David Bailey (they/he)
+# Hi, I'm David Bailey (they/them)
 
-### You might want to [visit my website](https://davidbailey.codes/), [contact me](https://davidbailey.codes/contact), or [follow me on Twitter](https://twitter.com/intent/follow?screen_name=davidbailey00)
+### [Website](https://davidbailey.codes/) · [Contact](https://davidbailey.codes/contact) · [LinkedIn](https://www.linkedin.com/in/davidjb2/) · [Twitter](https://twitter.com/intent/follow?screen_name=davidbailey00)
