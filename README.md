@@ -1,3 +1,3 @@
 # Hi, I'm David Bailey (they/them)
 
-### [🌍 Website](https://davidbailey.codes/) · [📨 Contact](https://davidbailey.codes/contact) · [🧑‍💼 LinkedIn](https://www.linkedin.com/in/davidjb2/)
+### [🌍 My Website](https://davidbailey.codes/) · [📨 Contact Me](https://davidbailey.codes/contact) · [🧑‍💼 LinkedIn Profile](https://www.linkedin.com/in/davidjb2/)
