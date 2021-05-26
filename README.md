@@ -6,7 +6,7 @@
 
 Consider [viewing my full resume](https://davidbailey.codes/resume) or [downloading a PDF copy](https://davidbailey.codes/David-Bailey-Resume.pdf).
 
-I've previously worked at these companies:
+I've previously worked with JavaScript at these companies:
 
 - **Software Engineer** at **[Financial Times](https://github.com/Financial-Times)** - March 2020 to December 2020
 - **Software Engineer** at **[Memiah Limited](https://github.com/memiah)** - August 2018 to February 2020 (part-time)
