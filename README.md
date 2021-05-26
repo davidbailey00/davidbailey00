@@ -16,9 +16,9 @@ Right now, I'm focusing on learning [SwiftUI](https://developer.apple.com/xcode/
 
 Please [get in touch](https://davidbailey.codes/contact) if you'd like to collaborate! I'm mainly interested in small, experimental projects.
 
-## iOS apps - Swift & SwiftUI
+## iOS Apps - Swift & SwiftUI
 
-Here are iOS apps I've created using SwiftUI, following the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course by [Paul Hudson](https://github.com/twostraws)
+Here are iOS apps I've created using SwiftUI, following the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course by [Paul Hudson](https://github.com/twostraws):
 
 <p>
   <a href="https://github.com/davidbailey00/WeSplit"><img src="https://user-images.githubusercontent.com/4248177/119724832-2238f880-be67-11eb-9db5-bbc32fdeb652.png" width="280" alt="WeSplit: tip calculator app" /></a>
