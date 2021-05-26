@@ -2,7 +2,15 @@
 
 **[🌍 My Website](https://davidbailey.codes/)&nbsp; · &nbsp;[📨 Contact Me](https://davidbailey.codes/contact)&nbsp; · &nbsp;[🧑‍💼 LinkedIn Profile](https://www.linkedin.com/in/davidbailey00/)**
 
-## iOS Apps - Swift & SwiftUI
+## Experience
+
+I've previously worked at these companies:
+
+- **Software Engineer** at **[Financial Times](https://www.ft.com/)** ([@Financial-Times](https://github.com/Financial-Times)) - **March 2020** to **December 2020**
+- **Software Engineer** at **[Memiah Limited](https://memiah.co.uk/what-we-do/)** ([@memiah](https://github.com/memiah)) - **August 2018** to **February 2020** (part-time)
+- **Software Engineer** at **[Gatsby Inc](https://www.gatsbyjs.com/)** ([@gatsbyjs](https://github.com/gatsbyjs)) - **August 2018** to **November 2019** (part-time)
+
+## iOS apps - Swift & SwiftUI
 
 Here are iOS apps I've created using SwiftUI, following the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course by [Paul Hudson](https://github.com/twostraws)
 
