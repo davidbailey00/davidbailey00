@@ -4,11 +4,17 @@
 
 ## Experience
 
+Consider [viewing my full resume](https://davidbailey.codes/resume) or [downloading a PDF copy](https://davidbailey.codes/David-Bailey-Resume.pdf).
+
 I've previously worked at these companies:
 
 - **Software Engineer** at **[Financial Times](https://www.ft.com/)** ([@Financial-Times](https://github.com/Financial-Times)) - **March 2020** to **December 2020**
 - **Software Engineer** at **[Memiah Limited](https://memiah.co.uk/what-we-do/)** ([@memiah](https://github.com/memiah)) - **August 2018** to **February 2020** (part-time)
 - **Software Engineer** at **[Gatsby Inc](https://www.gatsbyjs.com/)** ([@gatsbyjs](https://github.com/gatsbyjs)) - **August 2018** to **November 2019** (part-time)
+
+Right now, I'm focusing on learning [SwiftUI](https://developer.apple.com/xcode/swiftui/) and [Jetpack Compose](https://developer.android.com/jetpack/compose), with the goal of working independently.
+
+Please [get in touch](https://davidbailey.codes/contact) if you'd like to collaborate! I'm mainly interested in small, experimental projects.
 
 ## iOS apps - Swift & SwiftUI
 
