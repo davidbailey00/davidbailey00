@@ -21,9 +21,9 @@ Please [get in touch](https://davidbailey.codes/contact) if you'd like to collab
 Here are iOS apps I've created using SwiftUI, following the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course by [Paul Hudson](https://github.com/twostraws):
 
 <p>
-  <a href="https://github.com/davidbailey00/WeSplit"><img src="https://user-images.githubusercontent.com/4248177/119724832-2238f880-be67-11eb-9db5-bbc32fdeb652.png" width="282" alt="WeSplit: tip calculator app" /></a>
-  <a href="https://github.com/davidbailey00/LengthConverter"><img src="https://user-images.githubusercontent.com/4248177/119725858-5cef6080-be68-11eb-9be6-f3930e4f07b9.png" width="282" alt="Length Converter app" /></a>
-  <a href="https://github.com/davidbailey00/GuessTheFlag"><img src="https://user-images.githubusercontent.com/4248177/119726013-860ff100-be68-11eb-8b89-e172127f4db1.png" width="282" alt="Guess The Flag app" /></a>
-  <a href="https://github.com/davidbailey00/RockPaperScissors"><img src="https://user-images.githubusercontent.com/4248177/119726670-44337a80-be69-11eb-9e3a-28cef00789b1.png" width="282" alt="Rock Paper Scissors app" /></a>
-  <a href="https://github.com/davidbailey00/BetterRest"><img src="https://user-images.githubusercontent.com/4248177/119726936-9b394f80-be69-11eb-875e-a7d24f1307a8.png" width="282" alt="BetterRest: sleep helper app"></a>
+  <a href="https://github.com/davidbailey00/WeSplit"><img src="https://user-images.githubusercontent.com/4248177/119724832-2238f880-be67-11eb-9db5-bbc32fdeb652.png" width="210" alt="WeSplit: tip calculator app" /></a>
+  <a href="https://github.com/davidbailey00/LengthConverter"><img src="https://user-images.githubusercontent.com/4248177/119725858-5cef6080-be68-11eb-9be6-f3930e4f07b9.png" width="210" alt="Length Converter app" /></a>
+  <a href="https://github.com/davidbailey00/GuessTheFlag"><img src="https://user-images.githubusercontent.com/4248177/119726013-860ff100-be68-11eb-8b89-e172127f4db1.png" width="210" alt="Guess The Flag app" /></a>
+  <a href="https://github.com/davidbailey00/RockPaperScissors"><img src="https://user-images.githubusercontent.com/4248177/119726670-44337a80-be69-11eb-9e3a-28cef00789b1.png" width="210" alt="Rock Paper Scissors app" /></a>
+  <a href="https://github.com/davidbailey00/BetterRest"><img src="https://user-images.githubusercontent.com/4248177/119726936-9b394f80-be69-11eb-875e-a7d24f1307a8.png" width="210" alt="BetterRest: sleep helper app"></a>
 </p>
