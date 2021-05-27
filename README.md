@@ -26,4 +26,5 @@ Here are iOS apps I've created using SwiftUI, following the [100 Days of SwiftUI
   <a href="https://github.com/davidbailey00/GuessTheFlag"><img src="https://user-images.githubusercontent.com/4248177/119726013-860ff100-be68-11eb-8b89-e172127f4db1.png" width="210" alt="Guess The Flag app" /></a>
   <a href="https://github.com/davidbailey00/RockPaperScissors"><img src="https://user-images.githubusercontent.com/4248177/119726670-44337a80-be69-11eb-9e3a-28cef00789b1.png" width="210" alt="Rock Paper Scissors app" /></a>
   <a href="https://github.com/davidbailey00/BetterRest"><img src="https://user-images.githubusercontent.com/4248177/119726936-9b394f80-be69-11eb-875e-a7d24f1307a8.png" width="210" alt="BetterRest: sleep helper app"></a>
+  <a href="https://github.com/davidbailey00/WordScramble"><img src="https://user-images.githubusercontent.com/4248177/119808409-002d8d80-bedc-11eb-9450-2c54b70b6e9e.png" width="210" alt="Word Scramble app" /></a>
 </p>
