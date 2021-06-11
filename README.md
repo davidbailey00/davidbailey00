@@ -21,6 +21,7 @@ Please [get in touch](https://davidbailey.codes/contact) if you'd like to collab
 Here are iOS apps I've created using SwiftUI, following the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course by [Paul Hudson](https://github.com/twostraws):
 
 <p>
+  <a href="https://github.com/davidbailey00/Spirograph" title="Spirograph app"><img src="https://user-images.githubusercontent.com/4248177/121713604-f5c2e480-cad4-11eb-8725-db1cae11288e.png" width="210" alt="Spirograph app" /></a>
   <a href="https://github.com/davidbailey00/Moonshot" title="Moonshot: informational app about the Apollo space program"><img src="https://user-images.githubusercontent.com/4248177/121180977-6958bd80-c859-11eb-8c06-83fc85968c53.png" width="210" alt="Moonshot: informational app about the Apollo space program" /></a>
   <a href="https://github.com/davidbailey00/iExpense" title="iExpense: expense tracker app"><img src="https://user-images.githubusercontent.com/4248177/120792084-e53ac900-c52c-11eb-932f-76a66e226ea3.png" width="210" alt="iExpense: expense tracker app" /></a>
   <a href="https://github.com/davidbailey00/TimesTables" title="Times Tables app"><img src="https://user-images.githubusercontent.com/4248177/120243422-71b06780-c25f-11eb-8e66-783cd93a218d.png" width="210" alt="Times Tables app" /></a>
